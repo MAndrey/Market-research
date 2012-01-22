@@ -13,6 +13,7 @@
         <module>service</module>
         <module>web</module>
         <module>web-service</module>
+        <module>examples</module>
     </modules>
 
     <repositories>
